@@ -30,6 +30,8 @@ oh-my-zsh or zsh plugin list:
 now make an alias in zshrc, alias neofetch='neofetch | lolcat' to make it rgb when you run neofetch
 also since i love cats i edited the neofetch config file in usr/bin to display a cat instead of the fedora logo (yes i use fedora)
 
+this should be the results:
+
 
 ![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20182545.png)
 ![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20182551.png)
