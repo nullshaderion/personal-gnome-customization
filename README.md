@@ -45,3 +45,11 @@ though it may not be the same you can achieve a similar appearance:
 ![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20193240.png)
 ![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20193501.png)
 
+**Also forgot to mention that if you wish to achieve a similar look to my icons run the command in the terminal to install gnome tweaks**:
+  - sudo dnf install gnome-tweaks
+  - open tweaks and go to appearance and change the icons to tela
+  - change the shell to "adwaita default"
+  - change the legacy applications to "adwaita default"
+  - change the cursor to breeze cursors
+**if you dont see any of the options above run this:**
+  - sudo dnf install gnome-themes-extra
