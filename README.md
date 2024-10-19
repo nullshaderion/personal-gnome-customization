@@ -32,3 +32,4 @@ also since i love cats i edited the neofetch config file in usr/bin to display a
 
 
 ![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20182545.png)
+![RESULT](https://raw.githubusercontent.com/nullshaderion/personal-gnome-customization/refs/heads/main/Screenshot%202024-10-19%20182551.png)
