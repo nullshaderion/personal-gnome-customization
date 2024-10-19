@@ -19,12 +19,13 @@ now install oh my zsh && zsh via this command:
 
 also run this to set zsh as the main shell: chsh -s /usr/bin/zsh
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"  
+this installs oh-my-zsh:
+  * sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"  
 
 oh-my-zsh or zsh plugin list:
-  -firstly edit the ~/.zshrc file, on the plugins add, git, dnf, zsh-autosuggestions, zsh-syntax-highlighting
-  -install pokemon color scripts, and at the zsh config file add the line: pokemon-colorscripts --no title -s -r     --this will create a random pokemon everytime you boot up your terminal
-  -set up icons using eza, make an alias in the zsh config file: alias ls = 'eza -a --icons' and add more!
+  * firstly edit the ~/.zshrc file, on the plugins add, git, dnf, zsh-autosuggestions, zsh-syntax-highlighting
+  * install pokemon color scripts, and at the zsh config file add the line: pokemon-colorscripts --no title -s -r     --this will create a random pokemon everytime you boot up your terminal
+  * set up icons using eza, make an alias in the zsh config file: alias ls = 'eza -a --icons' and add more!
 
 now make an alias in zshrc, alias neofetch='neofetch | lolcat' to make it rgb when you run neofetch
 also since i love cats i edited the neofetch config file in usr/bin to display a cat instead of the fedora logo (yes i use fedora)
