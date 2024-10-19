@@ -23,6 +23,9 @@ also run this to set zsh as the main shell: chsh -s /usr/bin/zsh
 this installs oh-my-zsh:
   * sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"  
 
+zsh theme:
+  powerlevel10k
+
 oh-my-zsh or zsh plugin list:
   * firstly edit the ~/.zshrc file, on the plugins add, git, dnf, zsh-autosuggestions, zsh-syntax-highlighting
   * install pokemon color scripts, and at the zsh config file add the line: pokemon-colorscripts --no title -s -r     --this will create a random pokemon everytime you boot up your terminal
