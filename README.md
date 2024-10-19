@@ -12,6 +12,7 @@ gnome extensions list:
 - DASH TO PANEL
 - WORKSPACE INDICATOR
 - SPOTIFY CONTROLS + TRACK INFO
+- TOPHAT
 
 now install oh my zsh && zsh via this command:
 
