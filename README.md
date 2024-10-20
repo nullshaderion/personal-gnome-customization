@@ -1,3 +1,5 @@
+**Note you can install almost everything i said here via installing the desktop environment called hyprland!!**
+
 # personal-gnome-customization
 my gnome customization
 REQUIREMENTS:
