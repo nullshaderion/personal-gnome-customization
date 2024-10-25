@@ -4,7 +4,7 @@
 my gnome customization
 REQUIREMENTS:
   - GNOME
-  - ALACRITTY
+  - ALACRITTY / KITTY
   - GNOME-EXTENSIONS MANAGER
 gnome extensions list:
 - ARCMENU
